@@ -606,6 +606,8 @@ drive-scsi0: Completed successfully.
 drive-scsi0: mirror-job finished
 root@pve1:~#
 ```
+#HauteDisponibilité #RepriseActivité #CyberSecurité
+
 ---
 Le prochain sera...
 ---
